@@ -33,6 +33,19 @@
   }
 }
 
+@media (max-width: 600px) {
+  img {
+    width: 200px;
+    max-width: 90vw;
+    margin-bottom: 1.2rem;
+  }
+
+  .coming-soon {
+    font-size: 1.3rem;
+    letter-spacing: 0.1em;
+  }
+}
+
 .card {
   padding: 2em;
 }
